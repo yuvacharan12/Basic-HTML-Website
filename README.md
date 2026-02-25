@@ -12,6 +12,8 @@ The website includes:
 - Skills section
 - Contact information
 
+Project Link:https://htmlbasicstructurewebsite.netlify.app/
+
 ## 🛠 Technologies Used
 
 - HTML
