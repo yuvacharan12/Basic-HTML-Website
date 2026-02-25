@@ -11,7 +11,7 @@ The website includes:
 - Education details
 - Skills section
 - Contact information
-
+Project Url:https://roadmap.sh/projects/basic-html-website
 Project Link:https://htmlbasicstructurewebsite.netlify.app/
 
 ## 🛠 Technologies Used
